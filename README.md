@@ -27,5 +27,3 @@ Artificial Intelligence
 2. Data and privacy
 
 
-[PxenP4rHNE6Bh4nQz_Accenture Nordics_3TqKmbAkwSSf335Jx_1677843926673_completion_certificate.pdf](https://github.com/joa013/Accenture-Nordics-Developer-Program/files/10881960/PxenP4rHNE6Bh4nQz_Accenture.Nordics_3TqKmbAkwSSf335Jx_1677843926673_completion_certificate.pdf)
-
