@@ -26,4 +26,5 @@ Artificial Intelligence
 1. Shaping the Problem 
 2. Data and privacy
 
-<img src ="https://github.com/joa013/Accenture-Nordics-Developer-Program/blob/main/Accenture%20Nordics_completion_certificate.pdf" alt = "Certificate" />
+![Accenture Nordics_completion_certificate1024_1](https://user-images.githubusercontent.com/93839746/225743656-3ed8c3d2-e74c-40ef-ba8a-53d3e6dd2f0f.jpg)
+![Accenture Nordics_completion_certificate1024_2](https://user-images.githubusercontent.com/93839746/225743681-ed5fea8b-e621-48a1-b33b-982b0f6e31c7.jpg)
